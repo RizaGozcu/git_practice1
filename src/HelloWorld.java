@@ -5,6 +5,9 @@ public class HelloWorld {
         System.out.println(" here is second commit ever!");
 
         System.out.println("here is another wor done ");
+
+        // ready for more works
+        //and ready to be pushed to repo.
     }
 }
 
